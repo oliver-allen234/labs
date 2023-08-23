@@ -1,6 +1,7 @@
 package com.qa.main;
 
 public class BankAccount {
-	public int AccountNumber; 
+	private int AccountNumber; 
+
 	
 }
